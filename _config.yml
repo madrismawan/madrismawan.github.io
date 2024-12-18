@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Made Rismawan
+bio: A Man who develops software with coffee
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,11 +16,11 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://madrismawan.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,15 +31,15 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog, projects] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: Made Rismawan
+twitter: madrismawan
+instagram: maderismawan
+linkedin: maderismawan
+github: madrismawan
+email: rismawannugraha10@gmail.com 
 
 authors:
   maderismawan:

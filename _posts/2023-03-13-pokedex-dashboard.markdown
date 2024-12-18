@@ -1,14 +1,14 @@
 ---
 title: "Pokédex dashboard use Svelte"
 layout: post
-date: 2023-03-13 20:10
+date: 2023-03-13 12:10
 tag: [frontend, svelte, design pattern, state management  ]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1280px-International_Pok%C3%A9mon_logo.svg.png
 headerImage: true
 projects: true
-hidden: true
+hidden: false
 description: "Simple project Frontend use Svelte. This web only view list Pokemon use PokeAPI."
-category: project
+category: projects
 author: maderismawan
 externalLink: false
 ---
